@@ -2,6 +2,6 @@ body {
     background: slategray;
 }
 canvas {
-    margin-left: auto;
+    margin-left: 350px;
     background-image: url("backgroundCanvas.jpg");
 }
