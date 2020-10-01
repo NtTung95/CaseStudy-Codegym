@@ -1,0 +1,7 @@
+body {
+    background: slategray;
+}
+canvas {
+    margin-left: auto;
+    background-image: url("backgroundCanvas.jpg");
+}
